@@ -1,4 +1,4 @@
-# FORIT- FORMAR Challenge
+# forRIT- FORMAR Challenge
 
 ## Tabla de contenidos:
 
@@ -7,6 +7,7 @@
 1. **[Instalación de la base de datos](#instalación-de-la-base-de-datos)**
 1. **[¿Cómo instalar el proyecto?](#cómo-instalar-el-proyecto)**
 1. **[Rutas](#rutas)**
+1. **[Imagenes](#imagenes)**
 
 ## Objetivo:
 
@@ -112,4 +113,14 @@ npm run dev
 |    Editar tarea   |    http://localhost:3000/TaskForm  |
 |    Detalle de tarea    |   http://localhost:3000/TaskItem/:id    |
 
+
+## Imagenes:
+
+![Home](./assets/1.png)
+![Lista de tareas](./assets/2.png)
+![Actualizar](./assets/3.png)
+![Actualizar](./assets/4.png)
+![Eliminar](./assets/5.png)
+![Detalle](./assets/6.png)
+![Crear](./assets/7.png)
                                           
