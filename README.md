@@ -1,4 +1,4 @@
-# forRIT- FORMAR Challenge
+# forIT- FORMAR Challenge
 
 ## Tabla de contenidos:
 
